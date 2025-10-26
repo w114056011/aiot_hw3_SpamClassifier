@@ -1,6 +1,11 @@
 # AIoT Homework 3.1 — Spam/Ham Classifier and Visualization
 
-Short summary
+## Demo Site
+```bat
+https://5114056011-aiot-hw3.streamlit.app/
+```
+
+## Short summary
 
 This repository contains a small machine-learning baseline (spam vs ham classifier), developer utilities and an interactive Streamlit dashboard to explore model predictions and evaluation artifacts. It's designed for reproducible development, easy local runs, and simple CI smoke tests.
 
@@ -13,7 +18,7 @@ What you'll find here
 - `openspec/` — project specs, change proposals, and the OpenSpec workflow artifacts.
 - `tests/` — pytest tests and smoke tests.
 
-Quickstart (Windows cmd.exe)
+## Quickstart (Windows cmd.exe)
 
 Follow these steps to set up and run the full local workflow: create the virtualenv, preprocess the canonical dataset, train a model, run inference, and evaluate results.
 
@@ -81,11 +86,3 @@ Contributing
 
 - Branching: follow `feat/`, `fix/`, `docs/` prefixes.
 - Tests: add pytest tests under `tests/`. CI should run `pytest` and a smoke ML run using the small sample dataset.
-
-Contact / Ownership
-
-Add `OWNERS` or `MAINTAINERS.md` if you want explicit owners for the repo.
-
-License
-
-Add a LICENSE file if you want to publish this project publicly.
