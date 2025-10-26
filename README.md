@@ -1,9 +1,7 @@
 # AIoT Homework 3.1 — Spam/Ham Classifier and Visualization
 
 ## Demo Site
-```bat
-[https://5114056011-aiot-hw3.streamlit.app/](https://5114056011-aiot-hw3.streamlit.app/)
-```
+You can try the live application here:[https://5114056011-aiot-hw3.streamlit.app/](https://5114056011-aiot-hw3.streamlit.app/)
 
 ## Short summary
 
